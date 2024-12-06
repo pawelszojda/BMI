@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\anmar\\Documents\\02 Prywatne\\02 Studia\\Projektowanie interfejsu u\u017Cytkownika\\Adam Pi\u0105tek\\BMI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FA9A12C7-43E6-47CF-818A-4E4E21951007}|BMI.csproj|c:\\users\\anmar\\documents\\02 prywatne\\02 studia\\projektowanie interfejsu u\u017Cytkownika\\adam pi\u0105tek\\bmi\\osoba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA9A12C7-43E6-47CF-818A-4E4E21951007}|BMI.csproj|solutionrelative:osoba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FA9A12C7-43E6-47CF-818A-4E4E21951007}|BMI.csproj|c:\\users\\anmar\\documents\\02 prywatne\\02 studia\\projektowanie interfejsu u\u017Cytkownika\\adam pi\u0105tek\\bmi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA9A12C7-43E6-47CF-818A-4E4E21951007}|BMI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Osoba.cs",
+              "DocumentMoniker": "C:\\Users\\anmar\\Documents\\02 Prywatne\\02 Studia\\Projektowanie interfejsu u\u017Cytkownika\\Adam Pi\u0105tek\\BMI\\Osoba.cs",
+              "RelativeDocumentMoniker": "Osoba.cs",
+              "ToolTip": "C:\\Users\\anmar\\Documents\\02 Prywatne\\02 Studia\\Projektowanie interfejsu u\u017Cytkownika\\Adam Pi\u0105tek\\BMI\\Osoba.cs",
+              "RelativeToolTip": "Osoba.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T21:11:41.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\anmar\\Documents\\02 Prywatne\\02 Studia\\Projektowanie interfejsu u\u017Cytkownika\\Adam Pi\u0105tek\\BMI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\anmar\\Documents\\02 Prywatne\\02 Studia\\Projektowanie interfejsu u\u017Cytkownika\\Adam Pi\u0105tek\\BMI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T20:28:47.758Z",
               "EditorCaption": ""
