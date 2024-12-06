@@ -1,0 +1,15 @@
+C:\Users\anmar\Documents\02 Prywatne\02 Studia\Projektowanie interfejsu użytkownika\Adam Piątek\BMI\obj\Debug\net8.0\BMI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anmar\Documents\02 Prywatne\02 Studia\Projektowanie interfejsu użytkownika\Adam Piątek\BMI\obj\Debug\net8.0\BMI.AssemblyInfoInputs.cache
+C:\Users\anmar\Documents\02 Prywatne\02 Studia\Projektowanie interfejsu użytkownika\Adam Piątek\BMI\obj\Debug\net8.0\BMI.AssemblyInfo.cs
+C:\Users\anmar\Documents\02 Prywatne\02 Studia\Projektowanie interfejsu użytkownika\Adam Piątek\BMI\obj\Debug\net8.0\BMI.csproj.CoreCompileInputs.cache
+C:\Users\anmar\Documents\02 Prywatne\02 Studia\Projektowanie interfejsu użytkownika\Adam Piątek\BMI\obj\Debug\net8.0\BMI.sourcelink.json
+C:\Users\anmar\Documents\02 Prywatne\02 Studia\Projektowanie interfejsu użytkownika\Adam Piątek\BMI\bin\Debug\net8.0\BMI.exe
+C:\Users\anmar\Documents\02 Prywatne\02 Studia\Projektowanie interfejsu użytkownika\Adam Piątek\BMI\bin\Debug\net8.0\BMI.deps.json
+C:\Users\anmar\Documents\02 Prywatne\02 Studia\Projektowanie interfejsu użytkownika\Adam Piątek\BMI\bin\Debug\net8.0\BMI.runtimeconfig.json
+C:\Users\anmar\Documents\02 Prywatne\02 Studia\Projektowanie interfejsu użytkownika\Adam Piątek\BMI\bin\Debug\net8.0\BMI.dll
+C:\Users\anmar\Documents\02 Prywatne\02 Studia\Projektowanie interfejsu użytkownika\Adam Piątek\BMI\bin\Debug\net8.0\BMI.pdb
+C:\Users\anmar\Documents\02 Prywatne\02 Studia\Projektowanie interfejsu użytkownika\Adam Piątek\BMI\obj\Debug\net8.0\BMI.dll
+C:\Users\anmar\Documents\02 Prywatne\02 Studia\Projektowanie interfejsu użytkownika\Adam Piątek\BMI\obj\Debug\net8.0\refint\BMI.dll
+C:\Users\anmar\Documents\02 Prywatne\02 Studia\Projektowanie interfejsu użytkownika\Adam Piątek\BMI\obj\Debug\net8.0\BMI.pdb
+C:\Users\anmar\Documents\02 Prywatne\02 Studia\Projektowanie interfejsu użytkownika\Adam Piątek\BMI\obj\Debug\net8.0\BMI.genruntimeconfig.cache
+C:\Users\anmar\Documents\02 Prywatne\02 Studia\Projektowanie interfejsu użytkownika\Adam Piątek\BMI\obj\Debug\net8.0\ref\BMI.dll
